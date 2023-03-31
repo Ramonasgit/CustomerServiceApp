@@ -1,0 +1,6 @@
+- git init (um Repository zu erstellen)
+"This commit will.." steht immer vor der commit Meldung
+zB. -m "add file" --> "This commit will add file"
+
+
+- git log zeigt letzten commits an
