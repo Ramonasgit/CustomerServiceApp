@@ -4,3 +4,17 @@ zB. -m "add file" --> "This commit will add file"
 
 
 - git log zeigt letzten commits an
+
+Über (ganz oben in der Apple Leiste) Git > Github > Share Project on GitHub kann man das remoteRepository anlegen
+
+
+fhtw-eww-CustomerServiceApp - RepName
+origin - Remote
+A demo REST-Server to manage customers for the course - Description
+SHARE
+
+-> succesfully pushed to Github Development (bzw aktueller branch)
+
+
+Oder man loggt sich auf Github ein, schaut unter Repositories
+
